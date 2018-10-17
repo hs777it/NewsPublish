@@ -1,0 +1,8 @@
+F:\teaching\Project\NewsPublish\NewsPublish.Model\bin\Debug\netcoreapp2.1\NewsPublish.Model.deps.json
+F:\teaching\Project\NewsPublish\NewsPublish.Model\bin\Debug\netcoreapp2.1\NewsPublish.Model.dll
+F:\teaching\Project\NewsPublish\NewsPublish.Model\bin\Debug\netcoreapp2.1\NewsPublish.Model.pdb
+F:\teaching\Project\NewsPublish\NewsPublish.Model\obj\Debug\netcoreapp2.1\NewsPublish.Model.csproj.CoreCompileInputs.cache
+F:\teaching\Project\NewsPublish\NewsPublish.Model\obj\Debug\netcoreapp2.1\NewsPublish.Model.AssemblyInfoInputs.cache
+F:\teaching\Project\NewsPublish\NewsPublish.Model\obj\Debug\netcoreapp2.1\NewsPublish.Model.AssemblyInfo.cs
+F:\teaching\Project\NewsPublish\NewsPublish.Model\obj\Debug\netcoreapp2.1\NewsPublish.Model.dll
+F:\teaching\Project\NewsPublish\NewsPublish.Model\obj\Debug\netcoreapp2.1\NewsPublish.Model.pdb

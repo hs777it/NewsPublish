@@ -1,0 +1,12 @@
+F:\teaching\Project\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp2.1\NewsPublish.Service.deps.json
+F:\teaching\Project\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp2.1\NewsPublish.Service.dll
+F:\teaching\Project\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp2.1\NewsPublish.Service.pdb
+F:\teaching\Project\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp2.1\NewsPublish.Model.dll
+F:\teaching\Project\NewsPublish\NewsPublish.Service\bin\Debug\netcoreapp2.1\NewsPublish.Model.pdb
+F:\teaching\Project\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.1\NewsPublish.Service.csprojAssemblyReference.cache
+F:\teaching\Project\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.1\NewsPublish.Service.csproj.CoreCompileInputs.cache
+F:\teaching\Project\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.1\NewsPublish.Service.AssemblyInfoInputs.cache
+F:\teaching\Project\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.1\NewsPublish.Service.AssemblyInfo.cs
+F:\teaching\Project\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.1\NewsPublish.Service.csproj.CopyComplete
+F:\teaching\Project\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.1\NewsPublish.Service.dll
+F:\teaching\Project\NewsPublish\NewsPublish.Service\obj\Debug\netcoreapp2.1\NewsPublish.Service.pdb
